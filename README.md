@@ -1,4 +1,5 @@
 Hi there 👋
+
 I'm Mohammad Omar Abdullah Al-Issa, a passionate full stack developer from Lebanon 🇱🇧.
 
 I specialize in creating and managing dynamic web applications using JavaScript, PHP, Java, and various other technologies. With a strong focus on learning, problem-solving, and collaboration, I'm always excited to work on new projects and contribute to open-source communities.
