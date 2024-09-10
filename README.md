@@ -1,3 +1,7 @@
+### 🐍 GitHub Contribution Snake Game
+
+![Snake animation](https://github.com/Mhmdomarissa/Mhmdomarissa/blob/output/github-contribution-grid-snake.svg)
+
 Hi there 👋
 
 I'm Mohammad Omar Abdullah Al-Issa, a passionate full stack developer from Lebanon 🇱🇧.
