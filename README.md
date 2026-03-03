@@ -1,67 +1,282 @@
-<picture width=100%>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amr-hammoud/amr-hammoud/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amr-hammoud/amr-hammoud/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amr-hammoud/amr-hammoud/output/github-contribution-grid-snake.svg" width=100%>
-</picture>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Dark Skin Tone" width="40" height="40" />, I'm Mohammad  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /></h1>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0090FF&height=220&section=header&text=Mohammad%20Omar%20Al-Issa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Software%20Engineer&descSize=18&descAlignY=55&descAlign=50"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono+SemiBold&duration=3500&pause=800&color=0090FF&center=true&width=435&lines=A+Full-Stack+Developer;A+penetration+tester;A+Computer+Engineer+Graduate" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/mohammad-omar-al-issa-309828297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mhmdomarissa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mhmdomarissa&style=for-the-badge&color=0090FF&label=PROFILE+VIEWS" />
 </p>
 
-- I’m currently using **MERN stack** 
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" />
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" />
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
-  <img height=30 align="center" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
-
-- All of my projects are available on my Github
-- I am commited to creating visually appealing and user-friendly interfaces
-
-
-<h3 align="left">🛠️ My Tech Skills:</h3>
-<p align="left">
-
-<h4>Front-End</h4>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
-<h4>Back-End</h4>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-
-<h4>Mobile</h4>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-
-<h4>Database</h4>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<h4>Programming Languages</h4>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<h4>Others</h4>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-<h4>UIX</h4>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0090FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI-Powered+Production+Systems+%F0%9F%9A%80;Next.js+%7C+FastAPI+%7C+AWS+%7C+LLMs+%F0%9F%A4%96;From+Lebanon+to+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28" /> &nbsp;About Me
+
+```yaml
+name: Mohammad Omar Abdullah Al-Issa
+location: Lebanon
+current_role: Full-Stack AI Software Engineer @ Alpha Data (Dubai, UAE)
+education:
+  - B.S. Computer Engineering - Lebanese International University (2021-2025)
+  - M.S. Computer & Communication Engineering - LIU (Expected 2025-2027)
+  - A.S. Cyber Security - Cyber Ploit (2024)
+focus: Building scalable AI-powered systems with clean architecture
+```
+
+- &#x1F52D; &nbsp;Currently engineering **AI-powered production systems** at **Alpha Data**
+- &#x1F9E0; &nbsp;Specializing in **LLM integration, RAG pipelines & microservices**
+- &#x2601;&#xFE0F; &nbsp;Deploying on **AWS** with **Docker** & **CI/CD** pipelines
+- &#x1F393; &nbsp;Pursuing a **Master's in Computer & Communication Engineering**
+- &#x1F3EB; &nbsp;Former **AI Instructor** — teaching the next generation of developers
+- &#x26A1; &nbsp;**53+ public repositories** and counting
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### &#x1F3A8; Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### &#x2699;&#xFE0F; Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### &#x1F916; AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-00D1B2?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-4A154B?style=flat-square&logo=pinecone&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### &#x1F5C4;&#xFE0F; Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### &#x2601;&#xFE0F; Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### &#x1F6E0;&#xFE0F; Tools & More
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AlphaCV &#x2014; AI-Powered CV Analyzer</h3>
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa/alpha-cv">
+    <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mhmdomarissa/alpha-cv-frontend">
+    <img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+<p><em>Production-level CV analysis platform using LLMs to parse, analyze, and match candidates to job descriptions. Deployed on AWS with Docker & CI/CD.</em></p>
+</td>
+<td width="50%">
+<h3 align="center">AlphaContract &#x2014; AI Contract Analyzer</h3>
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa/ai-contract-analyzer">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+<p><em>AI-powered legal contract analysis platform with clause extraction, summarization, and risk identification.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">AlphaChat &#x2014; AI Chat Application</h3>
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa/AlphaChat">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+<p><em>Real-time AI chat with Retrieval-Augmented Generation (RAG) for context-aware conversations. Automated deployment via Docker & CI/CD.</em></p>
+</td>
+<td width="50%">
+<h3 align="center">MAIKR Studio & OpenClaw</h3>
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa/maikr-studio">
+    <img src="https://img.shields.io/badge/Studio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mhmdomarissa/MAIKR-OPENCLAW">
+    <img src="https://img.shields.io/badge/OpenClaw-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+<p><em>Creative studio and open-source tooling platforms built with modern TypeScript/JavaScript stacks.</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">IntervU &#x2014; AI Interview Platform</h3>
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa/IntervU">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+<p><em>AI-powered interview preparation and practice platform.</em></p>
+</td>
+<td width="50%">
+<h3 align="center">SnapSpotter &#x2014; Photographer Finder</h3>
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa/snapspotter">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+<p><em>Mobile app to discover and connect with photographers in your area.</em></p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Mhmdomarissa?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_53+_Repos_&#x2192;-0090FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> &nbsp;GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mhmdomarissa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090FF&icon_color=0090FF&text_color=c9d1d9&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhmdomarissa&theme=tokyonight&hide_border=true&background=0d1117&ring=0090FF&fire=0090FF&currStreakLabel=0090FF" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdomarissa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0090FF&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhmdomarissa&bg_color=0d1117&color=0090FF&line=0090FF&point=ffffff&area=true&area_color=0090FF&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+
+```
+Alpha Data (Dubai, UAE)       ->  Full-Stack AI Software Engineer    Jan 2025 - Present
+byec (Lebanon)                ->  AI Instructor (Part-Time)          Jun 2024 - Dec 2025
+XpertBot (Remote)             ->  Backend Developer Intern           Jun 2024 - Sep 2024
+Megabee SAL (Lebanon)         ->  Full-Stack Developer               Jan 2024 - Jun 2024
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0090FF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <em>"Crafting robust web applications and ensuring their security. Let's build and secure the web together!"</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-omar-al-issa-309828297/">
+    <img src="https://img.shields.io/badge/-Let's_Connect-0090FF?style=for-the-badge&logo=handshake&logoColor=white" />
+  </a>
+</p>
